@@ -12,3 +12,4 @@ How to use:
 eg:
 
 		python scrape.py
+Note: It will only show the news which have more than 100 votes. You can tweak that in the script.
